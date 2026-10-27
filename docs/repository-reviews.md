@@ -22,10 +22,10 @@ How helpful is the README?
 The README is very descriptive, detailing exactly what the application contains, instructions and requirements for use, and the resources used in its development.
 ### Activity
 Is the repository actively maintained?  
-No, the README contains a disclaimer specifying that the application is not maintained and the last updates were roughly 2 years ago.
-### Key Observation  
+No, the README contains a disclaimer specifying that the application is not maintained and the last updates were roughly 5 months ago.
+### Key Observation
 One thing this project does well.  
-This project is clear and descriptive in its functionality and purpose.
+One This project is clear and descriptive in its functionality and purpose.
 ---
 
 ## Repository 2
@@ -44,7 +44,7 @@ How helpful is the README?
 The README is descriptive and detailed, including a troubleshooting section and usage guide
 ### Activity
 Is the repository actively maintained?  
-Yes, the most recent activity was 2 months ago.
+Fairly, the most recent activity was 8 months ago.
 ### Key Observation
 One thing this project does well.  
 This project appears to streamline and provide a convenient interface for a feature of a program and is detailed enough in its description to allow for someone with a marginally adjacent background to make sense of it.
@@ -67,7 +67,7 @@ How helpful is the README?
 Fairly, the README instructs how to install and where to find documentation but leaves it to the documentation and tutorials to give an in-depth view of what the project actually contains.
 ### Activity
 Is the repository actively maintained?  
-Yes, the project appears to be at least 12 years old with edits as recent as last month.
+Yes, the project appears to be at least 12 years old with edits as recent as 4 days ago.
 ### Key Observation
 One thing this project does well.  
 This project shows a strong organizational structure with thorough documentation in a professional manner.
@@ -89,10 +89,10 @@ How helpful is the README?
 Very, the README contains a demo video clip as well as descriptive instructions.
 ### Activity  
 Is the repository actively maintained?  
-Yes, last update was 2 months ago and project is at least 3 years old.
-### Key Observation  
+Fairly, last update was 8 months ago and project is at least 3 years old.
+### Key Observation
 One thing this project does well.  
-The project makes it clear that it is still in development with a roadmap of past accomplishments and future goals as well as a disclaimer concerning the development for personal use and possible issues in unusual situations.
+This project makes it clear that it is still in development with a roadmap of past accomplishments and future goals as well as a disclaimer concerning the development for personal use and possible issues in unusual situations.
 ---
 
 ## Reflection
