@@ -26,6 +26,7 @@ No, the README contains a disclaimer specifying that the application is not main
 ### Key Observation
 One thing this project does well.  
 One This project is clear and descriptive in its functionality and purpose.
+
 ---
 
 ## Repository 2
@@ -93,6 +94,7 @@ Fairly, last update was 8 months ago and project is at least 3 years old.
 ### Key Observation
 One thing this project does well.  
 This project makes it clear that it is still in development with a roadmap of past accomplishments and future goals as well as a disclaimer concerning the development for personal use and possible issues in unusual situations.
+
 ---
 
 ## Reflection
