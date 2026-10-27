@@ -23,7 +23,7 @@ The README is very descriptive, detailing exactly what the application contains,
 ### Activity
 Is the repository actively maintained?  
 No, the README contains a disclaimer specifying that the application is not maintained and the last updates were roughly 2 years ago.
-### Key Observation
+### Key Observation  
 One thing this project does well.  
 This project is clear and descriptive in its functionality and purpose.
 ---
